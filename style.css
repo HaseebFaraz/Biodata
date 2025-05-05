@@ -16,12 +16,19 @@ section#upper-section .row {
     padding: 0px 0px 0px;
     border-bottom: 1px solid;
     margin: 0px 0px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+ul.list-content-style {
+    border-left: 1px solid;
+    border-right: 1px solid;
+    margin: 0px;
 }
 
 section#upper-section .heading {
     border-right: 1px solid;
     padding: 8px 0px;
-  border-left: 1px solid;
+  
 }
 section#upper-section .main-content ul.list-content-style {
     list-style: none;
